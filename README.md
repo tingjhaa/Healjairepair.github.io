@@ -75,13 +75,13 @@ Install the following tools:
 Clone the repository:
 
 ```bash
-git clone https://github.com/tingjhaa/Healjairepair.github.io.git
+git clone https://github.com/tingjhaa/healjairepair.github.io.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Healjairepair.github.io
+cd healjairepair.github.io
 ```
 
 Install dependencies:
