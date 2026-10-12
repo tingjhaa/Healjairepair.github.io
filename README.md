@@ -56,6 +56,7 @@ Our mission is to make the recovery process simpler, clearer, and more accessibl
 
 - **Runtime:** Node.js
 - **Frontend:** React.js
+- **Package manager:** Bun.lock
 - **Build tool:** Vite
 - **Language:** TypeScript
 - **Maps and location:** Google Maps Platform
