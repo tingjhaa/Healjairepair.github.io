@@ -1,0 +1,8 @@
+{
+  "name": "Healjai Repair",
+  "description": "Mobile flood insurance damage assessment and claim payout calculator for Thailand with photo verification, OIC guidelines, and instant estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
